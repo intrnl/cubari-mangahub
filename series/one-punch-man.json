@@ -4,6 +4,7 @@
   "cover": "https://thumb.mghubcdn.com/mn/onepunch-man.jpg",
   "chapters": {
     "141": {
+			"volume": "1",
       "title": "Rejuvenated Offence",
       "last_updated": "1616491849",
       "groups": {
@@ -46,6 +47,7 @@
       }
     },
     "140": {
+			"volume": "1",
       "title": "Stones and Diamonds",
       "last_updated": "1615460562",
       "groups": {
