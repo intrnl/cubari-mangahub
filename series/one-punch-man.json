@@ -3,33 +3,6 @@
   "description": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,\" from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!",
   "cover": "https://thumb.mghubcdn.com/mn/onepunch-man.jpg",
   "chapters": {
-    "140": {
-      "title": "Stones and Diamonds",
-      "last_updated": "1615460562",
-      "groups": {
-        "MangaHub": [
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/1.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/2.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/3.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/4.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/5.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/6.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/7.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/8.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/9.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/10.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/11.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/12.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/13.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/14.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/15.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/16.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/17.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/18.jpg",
-          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/19.jpg"
-        ]
-      }
-    },
     "141": {
       "title": "Rejuvenated Offence",
       "last_updated": "1616491849",
@@ -69,6 +42,33 @@
           "https://img.mghubcdn.com/file/imghub/onepunch-man/141/32.jpg",
           "https://img.mghubcdn.com/file/imghub/onepunch-man/141/33.jpg",
           "https://img.mghubcdn.com/file/imghub/onepunch-man/141/34.jpg"
+        ]
+      }
+    },
+    "140": {
+      "title": "Stones and Diamonds",
+      "last_updated": "1615460562",
+      "groups": {
+        "MangaHub": [
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/1.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/2.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/3.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/4.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/5.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/6.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/7.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/8.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/9.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/10.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/11.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/12.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/13.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/14.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/15.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/16.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/17.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/18.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/140/19.jpg"
         ]
       }
     },
