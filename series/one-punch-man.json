@@ -1,0 +1,67 @@
+{
+  "title": "One-Punch Man",
+  "description": "Image source taken from MangaHub",
+  "cover": "https://thumb.mghubcdn.com/mn/onepunch-man.jpg",
+  "chapters": {
+    "1": {
+      "volume": "1",
+      "title": "One Punch",
+      "last_updated": "1453248000",
+      "groups": {
+        "MangaHub": [
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/1.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/2.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/3.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/4.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/5.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/6.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/7.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/8.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/9.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/10.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/11.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/12.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/13.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/14.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/15.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/16.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/17.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/18.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/19.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/20.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/21.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/22.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/23.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/24.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/25.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/1/26.jpg"
+        ]
+      }
+    },
+    "2": {
+      "volume": "1",
+      "title": "Crab and Job Hunting",
+      "last_updated": "1453248000",
+      "groups": {
+        "MangaHub": [
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/1.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/2.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/3.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/4.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/5.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/6.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/7.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/8.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/9.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/10.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/11.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/12.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/13.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/14.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/15.jpg",
+          "https://img.mghubcdn.com/file/imghub/onepunch-man/2/16.jpg"
+        ]
+      }
+    }
+  }
+}

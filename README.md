@@ -1,0 +1,1 @@
+# MangaHub to Cubari proxy
